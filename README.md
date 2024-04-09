@@ -1,5 +1,5 @@
 # Blood-Donation-Prediction
-This predicts that will a previous donor donate blood in a given month 
+This predicts that will a previous donor donate blood in a given month or not. 
 
 ## Discription
 Blood transfusion saves lives - from replacing lost blood during major surgery or a serious injury to treating various illnesses and blood disorders. Ensuring that there's enough blood in supply whenever needed is a serious challenge for the health professionals. According to WebMD, "about 5 million Americans need a blood transfusion every year".
